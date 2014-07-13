@@ -1,0 +1,3 @@
+
+netmuseclient.NetMuseClient
+NetMuseClient.jar
