@@ -1,5 +1,11 @@
 NETMUSECLIENT
 
+Multi-user Sonic Environment
+https://www.youtube.com/watch?v=nmgysMqwWec
+http://prezi.com/emxbdej1z989/netmuse-mat-forum/
+http://prezi.com/zovswqy6sec9/netmuse-sssp/
+
+
 Compiling 
 
 Please note that due to a bug with OpenGL and the Proclipsing plug-in it is very difficult to export an OSX application. It's possible, but the plug-in cannot automatically move the required libraries, so it has to be done by hand. For now it will have to be a Windows only version. Feel free to write your own script, or wait for a fix from the developers.
